@@ -1,0 +1,5 @@
+name = Sum
+description = Add two numbers together from a form input.
+package = Custom Modules
+core = 7.x
+files[] = sum.module
